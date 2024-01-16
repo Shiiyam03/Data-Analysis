@@ -3,10 +3,14 @@
 This repository consist of python code for data analysis in a dataset. This is my intern task for data analysis in Cognifyz Technologies.
 
 ## Level - 1
-### Task 1 : Top Cuisines
-### Task 2 : City Analysis
-### Task 3 : Price Range Distribution
-### Task 4 : Online Deliver
+### Task 1 : 
+        Top Cuisines
+### Task 2 : 
+        City Analysis
+### Task 3 : 
+        Price Range Distribution
+### Task 4 : 
+        Online Deliver
 
 ## Level - 2
 ### Task 1 : Restaurant Ratings
